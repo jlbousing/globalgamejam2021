@@ -1,0 +1,19 @@
+{
+  "name": "globalgamejam2021",
+  "version": "1.0.0",
+  "description": "Prototipy to Global game jam 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlbousing/globalgamejam2021.git"
+  },
+  "author": "Jorge Luis Bou-saad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlbousing/globalgamejam2021/issues"
+  },
+  "homepage": "https://github.com/jlbousing/globalgamejam2021#readme"
+}
